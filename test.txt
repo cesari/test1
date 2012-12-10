@@ -1,4 +1,10 @@
 this is a test one
 adding another time to test.txt
 
+okay now
+
+#*#*#*#*#*
+*#*#*#*#*#
+#*#*#*#*#*
+
 haha! update from windows
